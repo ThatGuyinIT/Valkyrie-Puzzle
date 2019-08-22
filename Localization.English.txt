@@ -1,0 +1,37 @@
+.,English
+quest.name,Puzzle Test
+quest.description,A sequence puzzle.\nSolution combination is held in a variable <PuzzleSolution> in event <EventPuzzleStart>.
+EventPuzzleStart.text,Solve the puzzle
+EventPuzzleAddAir.button1,Continue
+UIWater.button1,Button1
+UIAir.button1,Button1
+UIFire.button1,1
+EventPuzzleStart.button1,Continue
+EventPuzzleAddWater.button1,Button1
+EventPuzzleTest.button1,Continue
+EventPuzzleAddFire.button1,Button1
+UIEarth.button1,Button1
+EventPuzzleAddEarth.button1,Button1
+EventPuzzleSuccess.text,Sequence correct.
+EventPuzzleSuccess.button1,Continue
+EventPuzzleFailed.text,Sequence failed.\n\nPuzzle reset.
+EventPuzzleFailed.button1,Continue
+EventPuzzleFirePos4.button1,Button1
+EventPuzzleAirPos4.button1,Button1
+EventPuzzleWaterPos4.button1,Button1
+EventPuzzleAirPos3.button1,Button1
+EventPuzzleAirPos2.button1,Button1
+EventPuzzleFirePos1.button1,Button1
+EventPuzzleFirePos2.button1,Button1
+EventPuzzleFirePos3.button1,Button1
+EventPuzzleWaterPos1.button1,Button1
+EventPuzzleWaterPos2.button1,Button1
+EventPuzzleWaterPos3.button1,Button1
+EventPuzzleEnd.button1,Button1
+EventPuzzleEarthPos1.button1,Button1
+EventPuzzleEarthPos2.button1,Button1
+EventPuzzleEarthPos3.button1,Button1
+EventPuzzleEarthPos4.button1,Button1
+quest.authors,Scytale
+quest.authors_short,Scytale
+quest.synopsys,A sequence puzzle.
